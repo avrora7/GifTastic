@@ -2,11 +2,14 @@
     padding: 30px;
 }
 
-.card {
-    width: 200px;
-    height: 454px;
-}
-
 #template {
     display:none;
+}
+
+.card {
+    height: 300px;
+}
+
+img {
+    height: 200px;
 }
