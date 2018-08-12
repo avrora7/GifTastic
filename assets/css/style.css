@@ -1,0 +1,12 @@
+.fluid-container {
+    padding: 30px;
+}
+
+.card {
+    width: 200px;
+    height: 454px;
+}
+
+#template {
+    display:none;
+}
